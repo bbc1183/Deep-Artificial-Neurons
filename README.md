@@ -17,3 +17,5 @@
   <img src="https://github.com/blake-camp/Deep-Artificial-Neurons/blob/main/UCIL.gif"/>
 </p>
 
+<p>You can find Blake Camp's contact info at his website found [<a href='https://blake-camp.github.io/'></a>]</p>
+

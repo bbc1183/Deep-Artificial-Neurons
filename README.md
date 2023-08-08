@@ -16,6 +16,12 @@
 <p align="center">
   <img src="https://github.com/blake-camp/Deep-Artificial-Neurons/blob/main/UCIL.gif"/>
 </p>
+
+<h3>Online Incremental Regression</h3>
+<p>Training distributions evolved over time.</p>
+<p align="center">
+  <img src="https://github.com/blake-camp/Deep-Artificial-Neurons/blob/main/smooth_CL5.gif"/>
+</p>
 </br>
 <h3>Contact</h3>
 <p>You can find Blake Camp's contact info at his website found [<a href='https://blake-camp.github.io/'>Here</a>]</p>

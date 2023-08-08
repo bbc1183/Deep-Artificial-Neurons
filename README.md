@@ -22,7 +22,7 @@
 <p align="center">
   <img src="https://github.com/blake-camp/Deep-Artificial-Neurons/blob/main/smooth_CL5.gif"/>
 </p>
-<p>We train models that can learn to fit complete functions even when they are obligated to learn it in a piecewise or incremental manner. Here, learning each piece of the full function is analogous to learning a sequence of tasks, encountered one after the other. Critically, the model is *not* allowed to revisit previously encountered tasks or store historical data. Follow along using the Notebook called <a href=''>HYPER_LEARNING_INCREMENTAL_REGRESSION.ipynb</a></p>
+<p>We train models that can learn to fit complete functions even when they are obligated to learn it in a piecewise or incremental manner. Here, learning each piece of the full function is analogous to learning a sequence of tasks, encountered one after the other. Critically, the model is *not* allowed to revisit previously encountered tasks or store historical data. Follow along using the Notebook called <a href='https://github.com/blake-camp/Deep-Artificial-Neurons/blob/main/HYPER_LEARNING_INCREMENTAL_REGRESSION.ipynb'>HYPER_LEARNING_INCREMENTAL_REGRESSION.ipynb</a></p>
 <h5>2 Tasks</h5>
 <img src="https://github.com/blake-camp/Deep-Artificial-Neurons/blob/main/2_task_CL.gif"/>
 

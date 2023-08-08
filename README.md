@@ -10,6 +10,6 @@ This repo is *under construction* and is part of a broader project to develop a 
 </p>
 
 <p align="center">
-  <img src="https://github.com/blake-camp/Deep-Artificial-Neurons/blob/main/UCIL.gif"/>
+  <img src="https://github.com/blake-camp/Deep-Artificial-Neurons/blob/main/UCIL_gif.gif"/>
 </p>
 

@@ -2,7 +2,7 @@
 
 This repo is *under construction* and accompanies the paper "Continual Learning with Deep Artificial Neurons" found here: https://openreview.net/forum?id=B94Nrz1Tbq
 <p align="center">
-  <img src="https://github.com/blake-camp/Deep-Artificial-Neurons/blob/main/Hyper_learning_gif.png"/>
+  <img src="https://github.com/blake-camp/Deep-Artificial-Neurons/blob/main/hyper_learning_gif.gif"/>
 </p>
 
 <p align="center">

@@ -9,4 +9,7 @@ This repo is *under construction* and is part of a broader project to develop a 
   <img src="https://github.com/blake-camp/Deep-Artificial-Neurons/blob/main/DANs_abstract_clean.png"/>
 </p>
 
+<p align="center">
+  <img src="https://github.com/blake-camp/Deep-Artificial-Neurons/blob/main/UCIL.gif"/>
+</p>
 

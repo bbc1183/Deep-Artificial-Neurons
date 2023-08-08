@@ -22,6 +22,8 @@
 <p align="center">
   <img src="https://github.com/blake-camp/Deep-Artificial-Neurons/blob/main/smooth_CL5.gif"/>
 </p>
+<p>We train models that can learn to fit complete functions even when they are obligated to learn the sub-functions in a piecewise or incremental manner. Here, learning each piece of the full function is analogous to learning a sequence of tasks, encountered one after the other. Critically, the model is *not* allowed to revisit previously encountered tasks or store historical data.</p>
+
 </br>
 <h3>Contact</h3>
 <p>You can find Blake Camp's contact info at his website found [<a href='https://blake-camp.github.io/'>Here</a>]</p>
